@@ -7,7 +7,7 @@ Data
 Manuscript
 Code
 
-Data - this folder contains all the raw data files required by the code files and will recreate all analyses and figures for the manuscript. 
+#### Data - this folder contains all the raw data files required by the code files and will recreate all analyses and figures for the manuscript. 
 * Isotope nubbins.csv - the list of all corals analyzed for stable isotopes.
 * Isotopes_raw.csv - raw stable isotope data that is merged with metadata from the above file.
 * Kaneohe_historical_nutrients.csv - baseline nutrient concentrations for the study site from Drupp et al. 2011.
@@ -25,12 +25,12 @@ Data - this folder contains all the raw data files required by the code files an
         * TPAIN_master_all_variables09.17.csv - metadata for all corals used for the respirometry measurements 
 
 
-manuscript
+#### Manuscript
 PDF of online supporting information
 
-Code:
-1. Fox_etal2020_tank_conditions.R - analysis of environmental conditions during the course of the experiment
-2. Fox_etal2020_nutrient_analyses.R - analysis of historical baseline and experimental nutrient concentrations
-3. Fox_etal2020_Physiology_analyses.R - analysis of all physiological and photosynthetic data and creation of main text figs. 1,2,3
-4. Fox_etal2020_Isotope_analyses.R - analysis of stable isotope data and creation of main text Fig. 4
+#### Code:
+   1. Fox_etal2020_tank_conditions.R - analysis of environmental conditions during the course of the experiment
+   2. Fox_etal2020_nutrient_analyses.R - analysis of historical baseline and experimental nutrient concentrations
+   3. Fox_etal2020_Physiology_analyses.R - analysis of all physiological and photosynthetic data and creation of main text figs. 1,2,3
+   4. Fox_etal2020_Isotope_analyses.R - analysis of stable isotope data and creation of main text Fig. 4
 
